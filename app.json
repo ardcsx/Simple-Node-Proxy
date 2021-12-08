@@ -1,0 +1,7 @@
+{
+    "name": "Node.js Simple Axios",
+    "description": "Axios Express",
+    "repository": "https://github.com/selogangsal/Simple-Node-Proxy",
+    "logo": "https://node-js-sample.herokuapp.com/node.png",
+    "keywords": ["node", "express", "axios"]
+  }
